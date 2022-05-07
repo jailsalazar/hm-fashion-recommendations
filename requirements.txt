@@ -1,0 +1,8 @@
+pytorch-lightning
+tensorflow
+scikit-learn
+pandas
+graphviz==0.16
+notebook==6.4.6
+jupyter-client==7.1.2
+jupyter-contrib-nbextensions==0.5.1
