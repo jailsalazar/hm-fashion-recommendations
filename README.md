@@ -13,6 +13,7 @@ Goal:
 For more information on the competition and implementation, see the links below:
 - Kaggle Competition & Dataset: [https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data)
 - Repo URL: [https://github.com/uazhlt-ms-program/ling-582-shared-task-code-jaileen-s-team ](https://github.com/jailsalazar/hm-fashion-recommendations)
+- Docker Image: [https://hub.docker.com/repository/docker/jailsalazar/hm-fashion-recommendations](https://hub.docker.com/repository/docker/jailsalazar/hm-fashion-recommendations)
 
 # How to get started
 Ensure the following are setup on your local machine:

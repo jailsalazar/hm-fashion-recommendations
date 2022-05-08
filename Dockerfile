@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.9
 
 LABEL author="Jaileen Salazar"
 LABEL description="H&M Personalized Fashion Recommendations container."
