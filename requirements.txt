@@ -1,6 +1,7 @@
 pytorch-lightning
 tensorflow
 tensorflow_recommenders
+scann
 scikit-learn
 pandas
 graphviz==0.16

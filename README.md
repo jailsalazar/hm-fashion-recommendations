@@ -11,7 +11,7 @@ Goal:
 - NOTE: Predictions must be made for all customer_id values found in the sample submission. All customers who made purchases during the test period are scored, regardless of whether they had purchase history in the training data.
 
 For more information on the competition and implementation, see the links below:
-- Kaggle Competition: [https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data)
+- Kaggle Competition & Dataset: [https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data)
 - Repo URL: [https://github.com/uazhlt-ms-program/ling-582-shared-task-code-jaileen-s-team ](https://github.com/jailsalazar/hm-fashion-recommendations)
 
 # How to get started
