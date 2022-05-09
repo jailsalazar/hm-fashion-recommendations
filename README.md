@@ -20,6 +20,11 @@ Ensure the following are setup on your local machine:
 - docker
 - web browser
 
+To download dataset:
+```bash
+	kaggle competitions download -c h-and-m-personalized-fashion-recommendations
+```
+
 To execute both notebooks:
 1. Start up the class competition docker container:
 ``` bash
